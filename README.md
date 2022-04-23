@@ -6,14 +6,15 @@ ML model that can classify Good and bad people using various facial features.
 
 Data-set contains over 10000 images of both the catagories.
 
-![index3](https://user-images.githubusercontent.com/75358720/164894219-d1020968-baed-4069-a824-763291aac18a.png)
+
 
 
 ## Some of the Images-
 ### 🎯Bad People(Un-savory)
-![index](https://user-images.githubusercontent.com/75358720/164894070-f456f2e8-45ed-4a9d-8bfa-b044924852dc.png)
+![Screenshot 2022-04-23 181407](https://user-images.githubusercontent.com/75358720/164895049-19ac798a-bfd1-46de-bfd2-d66fe6bc0390.png)
+
 ### 🎯Bad People(savory)
-![index2](https://user-images.githubusercontent.com/75358720/164894116-1ca6a49f-0cd5-45e0-997f-01a4e1cdc187.png)
+![Screenshot 2022-04-23 181651](https://user-images.githubusercontent.com/75358720/164895158-74d5c1a8-5aef-4de3-a1b3-19569fedceca.png)
 
 # Accuracy of the model-
 
